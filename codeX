@@ -1,0 +1,4 @@
+#!/bin/bash
+name=Gabby's
+Day=Saturday
+echo "$Day is $name birthday"
