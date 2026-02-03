@@ -2,3 +2,4 @@
 name=Gabby's
 Day=Saturday
 echo "$Day is $name birthday"
+#add a new line of code. please note!!!
